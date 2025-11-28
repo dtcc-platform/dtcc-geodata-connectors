@@ -1,0 +1,5 @@
+requests>=2.28.0
+tqdm>=4.64.0
+
+# Optional: for accurate SWEREF99 to WGS84 coordinate transformation
+# pyproj>=3.4.0
